@@ -1,0 +1,248 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Mukta", sans-serif;
+  font-size: 16px;
+  background-color: #fff;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  /* background-color: #fff; */
+  position: fixed;
+  color: #000;
+  z-index: 2;
+  background-color: #fff;
+  transition: 0.5s all;
+}
+
+.header-scroll {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 5px 0px;
+}
+
+/* header logo */
+.header-logo {
+  margin-left: 60px;
+  width: 359px;
+}
+
+.header-logo h2 {
+  font-size: 2.5rem;
+  margin: 20px 0;
+}
+/* header menu */
+.header-menu {
+  margin-right: 60px;
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  width: calc(100% - 478px);
+}
+
+.header-menu ul {
+  display: flex;
+  gap: 70px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header-menu a {
+  color: #000;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.header-menu a:hover {
+  color: #537459;
+}
+
+main {
+  width: 100%;
+}
+/* eslogan fondo*/
+.main__portada {
+  display: flex;
+  width: 100%;
+  height: 250px;
+  background-image: url(img/hunters-race.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  /* filter: grayscale(.4) brightness(90%); */
+  padding-top: 86px;
+}
+
+/* portada */
+.portada__title {
+  display: flex;
+  justify-content: center;
+}
+
+.portada__box {
+  padding: 40px 60px 0 60px;
+  position: relative;
+}
+
+.title__box {
+  position: absolute;
+  background-color: #292929;
+  width: 50px;
+  height: 90px;
+  top: 38px;
+  left: 0;
+}
+
+.portada__title h2 {
+  position: relative;
+  margin: 0;
+  font-size: 4.5rem;
+  font-weight: bold;
+  color: #537459;
+}
+
+
+/* perfil abogados */
+.container {
+    width: 100%;
+}
+
+.container__person {
+    width: 100%;
+    padding: 40px 60px;
+    display: flex;
+    gap: 30px;
+}
+
+.person__img {
+    width: 35%;
+}
+
+.person__img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.person__info {
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.person__info h3 {
+    margin: 0;
+    font-size: 2.5rem;
+    color: #537459;
+}
+
+.person__info h5 {
+    margin: 0;
+    font-size: 1.3rem;
+    color: #537459;
+}
+
+.person__info p {
+    margin: 0;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+}
+
+.person__info span {
+    font-size: 1.2rem;
+}
+
+.person__contact {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.person__contact i {
+    color: #537459;
+    font-size: 1.4rem;
+}
+
+.person__icon span{
+    padding-left: 10px;
+}
+
+.person__social {
+    padding-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.person__social i {
+    font-size: 2rem;
+    transition: .3s;
+}
+
+.person__social i:hover {
+    transform: scale(130%);
+}
+
+/* Footer about */
+.about {
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding-left: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__logo h2 {
+  margin: 0;
+  padding: 40px 0;
+  font-size: 3rem;
+}
+
+.about__follow {
+  padding-right: 60px;
+}
+
+.about__follow h3 {
+  font-size: 2.3rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 40px 0;
+}
+
+.about__follow--icons {
+  display: flex;
+  gap: 30px;
+  font-size: 2.5rem;
+}
+
+.about__follow--icons i {
+  color: #fff;
+  transition: 0.3s all;
+}
+
+.about__follow--icons i:hover {
+  color: #537459;
+  transform: scale(120%);
+}
+
+/* Copyright */
+.Copyright {
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 40px 0 20px 0;
+}
+
+.Copyright a {
+  color: #537459;
+}

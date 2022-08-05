@@ -1,0 +1,32 @@
+[
+    {
+      "image": "img/service-1.jpg",
+      "title": "DERECHO LABORAL",
+      "description": "Asesoramos a nuestros clientes en todos los aspectos del derecho laboral, tanto en materia de relaciones individuales como colectivas, derecho procesal laboral, derecho previsional y derecho migratorio. Nuestro objetivo es brindar un servicio de asesoría permanente, oportuno y eficiente a nuestros clientes, con la finalidad de coadyuvar a la gestión óptima del personal, nacional y expatriado, estableciendo tanto mecanismos de prevención y solución de conflictos laborales, migratorios y/o previsionales, como aquéllos que permitan adoptar decisiones efectivas y duraderas para aminorar, controlar y eliminar contingencias bajo la perspectiva que nos brindan los instrumentos legales de la practica del derecho laboral."
+    },
+    {
+      "image": "img/service-2.jpg",
+      "title": "DERECHO CIVIL Y CONTRACTUAL",
+      "description": "Esta área dirige sus esfuerzos a asesorar a sus clientes en las diversas materias del derecho reguladas en el Código Civil, tales como Obligaciones y Contratos, Familia, Sucesiones, entre otros En lo concerniente a contratos el Estudio brinda asesoría en la negociación, elaboración y celebración de contratos en general, incluyendo los concernientes a la contratación moderna, como la contratación en masa, vía cláusulas generales de contratación, contratos de Arrendamiento Financiero (Leasing), Franquicia, Factoraje, Licencia, Distribución, Fideicomiso, Concesión Comercial, entre otros."
+    },
+    {
+      "image": "img/service-3.jpg",
+      "title": "DERECHO ADMINISTRATIVO Y CONTRATACIÓN CON EL ESTADO",
+      "description": "El Estudio sus esfuerzos a asesorar a sus clientes en los procedimientos, trámites y gestiones que deben ser realizados ante las diversas entidades de la administración pública, particularmente los relativos con los procesos de contratación y adquisiciones del Estado."
+    },
+    {
+      "image": "img/service-4.jpg",
+      "title": "DERECHO DE LA PROPIEDAD INTELECTUAL",
+      "description": "Asesoría en el registro y protección de derechos de propiedad industrial, tales como marcas de productos y servicios, lemas, nombres comerciales, entre otros."
+    },
+    {
+      "image": "img/service-5.jpg",
+      "title": "DERECHO DE SEGUROS",
+      "description": "Prestamos asesoría en el campo de los seguros tanto a empresas de seguros, productores de seguros, ajustadores y personas que tengan algún tipo de interés involucrado en este campo. El asesoramiento abarca cuestiones internas propias del manejo o administración de los contratos de seguros como la solución de posibles conflictos que se pueden presentar."
+    },
+    {
+      "image": "img/service-6.jpg",
+      "title": "DERECHO CORPORATIVO, COMERCIAL Y CONTRATOS",
+      "description": "La practica en esta área se encuentra orientada a cubrir todo el espectro de necesidades que pudieran requerir las personas jurídicas en temas corporativos y societarios, incluyendo la constitución de sociedades y sucursales, elaboración de actas de Juntas de Socios y Directorios, así como elaboración e inscripción de actos societarios tales como aumentos y reducciones de capital, regímenes de poderes, reorganización de sociedades (fusión, escisión, transformaciones, disoluciones y liquidaciones)."
+    }
+  ]

@@ -1,0 +1,301 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Mukta", sans-serif;
+  font-size: 16px;
+  background-color: #fff;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  /* background-color: #fff; */
+  position: fixed;
+  color: #000;
+  z-index: 2;
+  background-color: #fff;
+  transition: 0.5s all;
+}
+
+.header-scroll {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 5px 0px;
+}
+
+/* header logo */
+.header-logo {
+  margin-left: 60px;
+  width: 359px;
+}
+
+.header-logo h2 {
+  font-size: 2.5rem;
+  margin: 20px 0;
+}
+/* header menu */
+.header-menu {
+  margin-right: 60px;
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  width: calc(100% - 478px);
+}
+
+.header-menu ul {
+  display: flex;
+  gap: 70px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header-menu a {
+  color: #000;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.header-menu a:hover {
+  color: #537459;
+}
+
+main {
+  width: 100%;
+}
+/* eslogan fondo*/
+.main__portada {
+  display: flex;
+  width: 100%;
+  height: 350px;
+  background-image: url(img/hunters-race.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  /* filter: grayscale(.4) brightness(90%); */
+  padding-top: 86px;
+}
+
+/* portada */
+.portada__title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.portada__box {
+  background-color: #fff;
+  padding: 40px 60px;
+  color: #000;
+}
+
+.portada__title h2 {
+  margin: 0;
+  font-size: 5rem;
+  font-weight: bold;
+  color: #537459;
+}
+
+.portada__title p {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+/* texto sobre  nosotros */
+.container__info{
+  width: 100%;
+}
+
+.info__history {
+  padding: 60px 100px 0px 100px;
+  width: 100%;
+  display: flex;
+  gap: 30px;
+}
+
+.history__paragraph {
+  width: 60%;
+}
+
+.history__paragraph p {
+  margin: 0;
+  font-size: 1.2rem;
+  text-align: justify;
+  line-height: 2rem;
+  margin: 0 0 16px 0;
+}
+
+.history__layout {
+  width: 40%;
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+
+.layout__forma {
+  width: 200px;
+  height: 100%;
+  background-color: #537459;
+}
+
+.layout__img {
+  position: absolute;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.layout__img img {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+}
+
+/* seccion filosofia/mision vision */
+.info__cards {
+  width: 100%;
+  padding: 20px 0;
+}
+
+.title__cards {
+  margin: 0;
+  padding: 20px 60px 50px 60px;
+  font-size: 2.5rem;
+}
+
+.cards {
+  width: 100%;
+  padding: 0 60px;
+  display: flex;
+  gap: 30px;
+  position: relative;
+}
+
+.cards__card {
+  width: calc(100% / 3);
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  z-index: 1;
+}
+
+.cards__card h3 {
+  margin: 0;
+  padding-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.cards__card p {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.7rem;
+}
+
+.back__line {
+  position: absolute;
+  width: 100%;
+  height: 150px;
+  top: 30px;
+  background-color: #537459;
+  left: 0;
+}
+
+/* vision y mision */
+.info__vs {
+  width: 100%;
+  padding: 40px 60px 40px 0;
+  display: flex;
+  gap: 30px;
+}
+
+.vs__img {
+  width: 60%;
+}
+
+.vs__img img {
+  width: 100%;
+}
+
+.container__vs {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.vision {
+  text-align: justify;
+}
+.vision h3 {
+  margin: 0;
+  padding-bottom: 20px;
+  font-size: 2.5rem;
+}
+
+.vision p {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+/* Footer about */
+.about {
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding-left: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__logo h2 {
+  margin: 0;
+  padding: 40px 0;
+  font-size: 3rem;
+}
+
+.about__follow {
+  padding-right: 60px;
+}
+
+.about__follow h3 {
+  font-size: 2.3rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 40px 0;
+}
+
+.about__follow--icons {
+  display: flex;
+  gap: 30px;
+  font-size: 2.5rem;
+}
+
+.about__follow--icons i {
+  color: #fff;
+  transition: 0.3s all;
+}
+
+.about__follow--icons i:hover {
+  color: #537459;
+  transform: scale(120%);
+}
+
+/* Copyright */
+.Copyright {
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 40px 0 20px 0;
+}
+
+.Copyright a {
+  color: #537459;
+}

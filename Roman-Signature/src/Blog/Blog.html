@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../../normalizer.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/icon-logo.png">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/48bf202cda.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="Blog.css">
+    <title>Román</title>
+</head>
+<body>
+  <!-- Nav -->
+  <header id="header-scroll">
+    <div class="header-logo">
+      <h2>ROMÁN</h2>
+    </div>
+    <div class="header-menu">
+      <ul>
+        <li><a href="../../index.html">Inicio</a></li>
+        <li><a href="../Nosotros/Nosotros.html">Nosotros</a></li>
+        <li><a href="../Equipo/Equipo.html">Equipo</a></li>
+        <li><a href="../Servicios/Servicios.html">Servicios</a></li>
+        <li><a href="Blog.html">Blog</a></li>
+        <li><a href="../Contactos/Contactos.html">Contactos</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <main>
+    <!-- Card blog -->
+    <section class="main__portada">
+      <div class="portada__media">
+        <div class="media__plane--1"></div>
+        <div class="media__plane--2"></div>
+        <div class="media__plane--3"></div>
+        <div class="media__post--img">
+          <a href="#"><img src="img/post-main.jpg" alt=""></a>
+        </div>
+      </div>
+      <div class="media__texto">
+        <div class="card__portada">
+          <span>Julio 23, 2022</span>
+          <h2>Yenifer Paredes intentó victimizarse en el Congreso</h2>
+          <p>Yenifer Paredes, cuñada del presidente Pedro Castillo, se presentó este viernes ante la Comisión de Fiscalización del Congreso, donde reconoció públicamente que trabajó para el empresario Hugo Espino, gerente de JJM Espino Ingenieros S.A.C. Esto, pese a que la compañía contrata con el Estado.[...]</p>
+          <a href="#">Leer mas</a>
+        </div>
+      </div>
+    </section>
+    <!-- secciòn tarjetas -->
+    <section class="section__cards">   
+      <div class="cards__title">
+        <h2>Últimas Publicaciones</h2>
+        <div></div>
+      </div>   
+      <div class="blog__cards" id="cards">
+        <template id="template-card">
+          <div class="blog__card">
+            <div class="card__img">
+              <img src="" alt="">
+            </div>
+            <div class="card__info">
+              <span></span>
+              <h3></h3>
+            </div>
+          </div>
+        </template>
+      </div>
+      <div class="btn__more">
+        <a href="#">Ver Mas</a>
+      </div>
+    </section>
+    <section class="container__subscribe">
+      <div class="subscribe__form">
+        <h3>SUSCRIBETE</h3>
+        <p>Suscríbase a nuestro blog para recibir noticias e información legal todos los meses.</p>
+        <form action="submit">
+          <input class="form__email" type="email" required placeholder="Ingresa tu email">
+          <input class="form__btn" type="button" value="SUSCRIBIRME">
+        </form>
+      </div>
+    </section>
+  </main>
+
+   
+  <footer>
+    <div class="about">
+      <div class="footer__logo">
+        <h2>ROMÁN</h2>
+      </div>
+      <div class="about__follow">
+          <h3>Siguenos</h3>
+          <div class="about__follow--icons">
+            <a href="#"><i class="fab fa-facebook-square"></i></a>
+            <a href="#"><i class="fab fa-twitter-square"></i></a>
+            <a href="#"><i class="fab fa-instagram-square"></i></a>
+            <a href="#"><i class="fab fa-google-plus-square"></i></a>
+            <a href="#"><i class="fab fa-linkedin"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="Copyright">
+      <span>Copyright © 2022 Román | Developer: <a href="">Kevin Alderete</a></span>
+    </div>
+  </footer>
+  
+  <script src="../../index.js"></script>
+  <script src="Cards.js"></script>
+
+</body>
+</html>

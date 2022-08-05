@@ -1,0 +1,57 @@
+[
+    {
+      "image": "img/Omar-Fuentes.jpg",
+      "name": "Omar Fuentes",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla, quibusdam sunt in blanditiis itaque sequi aut esse commodi odio voluptatum corrupti voluptas dolore vitae ducimus? Voluptatem quisquam officiis dolor. Pariatur saepe sed dicta eligendi animi iste nam similique cum veritatis dignissimos expedita, vero omnis eos iure inventore voluptate molestias quo beatae nihil quia? Corporis eveniet accusantium quasi sit impedit? Doloremque iure vel aut debitis vitae, voluptas est, reprehenderit ipsa ex rem nulla molestiae laudantium tenetur! Ab quisquam corporis blanditiis dolorum dolorem ratione aliquam enim. Natus assumenda porro perspiciatis nemo.",
+      "position": "Derecho Empresarial",
+      "number": "+51 999 000 222",
+      "email": "fuentes@gmail.com",
+      "linkedin": "#", 
+      "facebook": "#",
+      "cv": "#"
+    },
+    {
+      "image": "img/Katy-Ramos.png",
+      "name": "Katy Ramos",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla, quibusdam sunt in blanditiis itaque sequi aut esse commodi odio voluptatum corrupti voluptas dolore vitae ducimus? Voluptatem quisquam officiis dolor. Pariatur saepe sed dicta eligendi animi iste nam similique cum veritatis dignissimos expedita, vero omnis eos iure inventore voluptate molestias quo beatae nihil quia? Corporis eveniet accusantium quasi sit impedit? Doloremque iure vel aut debitis vitae, voluptas est, reprehenderit ipsa ex rem nulla molestiae laudantium tenetur! Ab quisquam corporis blanditiis dolorum dolorem ratione aliquam enim. Natus assumenda porro perspiciatis nemo.",
+      "position": "Derecho Empresarial",
+      "number": "+51 999 000 222",
+      "email": "ramos@gmail.com",
+      "linkedin": "#", 
+      "facebook": "#",
+      "cv": "#"
+    },
+    {
+      "image": "img/gregory-gill.jpg",
+      "name": "Gregory Gill",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla, quibusdam sunt in blanditiis itaque sequi aut esse commodi odio voluptatum corrupti voluptas dolore vitae ducimus? Voluptatem quisquam officiis dolor. Pariatur saepe sed dicta eligendi animi iste nam similique cum veritatis dignissimos expedita, vero omnis eos iure inventore voluptate molestias quo beatae nihil quia? Corporis eveniet accusantium quasi sit impedit? Doloremque iure vel aut debitis vitae, voluptas est, reprehenderit ipsa ex rem nulla molestiae laudantium tenetur! Ab quisquam corporis blanditiis dolorum dolorem ratione aliquam enim. Natus assumenda porro perspiciatis nemo.",
+      "position": "Derecho Empresarial",
+      "number": "+51 999 000 222",
+      "email": "gill@gmail.com",
+      "linkedin": "#", 
+      "facebook": "#",
+      "cv": "#"
+    },
+    {
+      "image": "img/clayton.jpg",
+      "name": "Marly Clayton",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla, quibusdam sunt in blanditiis itaque sequi aut esse commodi odio voluptatum corrupti voluptas dolore vitae ducimus? Voluptatem quisquam officiis dolor. Pariatur saepe sed dicta eligendi animi iste nam similique cum veritatis dignissimos expedita, vero omnis eos iure inventore voluptate molestias quo beatae nihil quia? Corporis eveniet accusantium quasi sit impedit? Doloremque iure vel aut debitis vitae, voluptas est, reprehenderit ipsa ex rem nulla molestiae laudantium tenetur! Ab quisquam corporis blanditiis dolorum dolorem ratione aliquam enim. Natus assumenda porro perspiciatis nemo.",
+      "position": "Derecho Penal",
+      "number": "+51 999 000 222",
+      "email": "marly@gmail.com",
+      "linkedin": "#", 
+      "facebook": "#",
+      "cv": "#"
+    },
+    {
+      "image": "img/corey-collins.jpg",
+      "name": "Corey Collins",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui nulla, quibusdam sunt in blanditiis itaque sequi aut esse commodi odio voluptatum corrupti voluptas dolore vitae ducimus? Voluptatem quisquam officiis dolor. Pariatur saepe sed dicta eligendi animi iste nam similique cum veritatis dignissimos expedita, vero omnis eos iure inventore voluptate molestias quo beatae nihil quia? Corporis eveniet accusantium quasi sit impedit? Doloremque iure vel aut debitis vitae, voluptas est, reprehenderit ipsa ex rem nulla molestiae laudantium tenetur! Ab quisquam corporis blanditiis dolorum dolorem ratione aliquam enim. Natus assumenda porro perspiciatis nemo.",
+      "position": "Derecho Penal",
+      "number": "+51 999 000 222",
+      "email": "corey@gmail.com",
+      "linkedin": "#", 
+      "facebook": "#",
+      "cv": "#"
+    }
+  ]
