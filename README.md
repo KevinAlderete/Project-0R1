@@ -6,4 +6,4 @@
 
 ### Links
 
-- [Live-Page](https://kevinalderete.github.io/Project-0R1/Roman-Signature/src/Equipo/Equipo.html)
+- [Live-Page](https://kevinalderete.github.io/Project-0R1/Roman-Signature/)
