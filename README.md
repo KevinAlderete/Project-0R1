@@ -6,4 +6,4 @@
 
 ### Links
 
-- [order-summary-component-main](https://kevinalderete.github.io/Web-Design-Practices/order-summary-component-main/)
+- [Live-Page](https://kevinalderete.github.io/Project-0R1/Roman-Signature/src/Equipo/Equipo.html)
